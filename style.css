@@ -81,6 +81,7 @@ body {
 }
 
 /* Heading */
+
 .title,
 .add__title {
   color: #333;
@@ -172,10 +173,12 @@ body {
 .todo-list__input {
   display: none;
 }
+
 .edit-mode .todo-list__input {
   display: inline-block;
   width: 224px;
 }
+
 .edit-mode .todo-list__label {
   display: none;
 }
