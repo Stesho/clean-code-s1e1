@@ -163,7 +163,7 @@ body {
 
 /* Completed */
 
-#done-tasks .todo-list__label {
+#completed-list .todo-list__label {
   text-decoration: line-through;
   color: #888;
 }

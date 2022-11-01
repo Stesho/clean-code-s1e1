@@ -11,7 +11,7 @@
 var taskInput=document.getElementById("new-task");//Add a new task.
 var addButton=document.getElementsByTagName("button")[0];//first button
 var incompleteTaskHolder=document.getElementById("todo-list");//ul of #todo-tasks
-var completedTasksHolder=document.getElementById("done-list");//done-tasks
+var completedTasksHolder=document.getElementById("completed-list");//done-tasks
 
 
 //New task list item
